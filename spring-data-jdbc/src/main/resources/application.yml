@@ -1,0 +1,6 @@
+#jdbc数据库配置
+spring:
+  profiles:
+    active: dev
+
+

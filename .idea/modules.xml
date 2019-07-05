@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cache/spring-boot-cache.iml" filepath="$PROJECT_DIR$/spring-boot-cache/spring-boot-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-jdbc/spring-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-data-jdbc/spring-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-jdbc/spring-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-data-jdbc/spring-data-mybatis.iml" />
+    </modules>
+  </component>
+</project>
